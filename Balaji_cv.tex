@@ -1,0 +1,72 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% moderncv themes
+\moderncvstyle{banking} % casual, classic, banking, oldstyle and fancy
+\moderncvcolor{blue}
+
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.75]{geometry}
+%\usepackage{hyperref}
+
+\patchcmd{\makehead}
+  {\hfil}
+  {\hspace*{0.15\textwidth}}
+  {}
+  {}
+\patchcmd{\makehead}
+  {\setlength{\makeheaddetailswidth}{0.8\textwidth}}
+  {\setlength{\makeheaddetailswidth}{0.67\textwidth}}
+  {}
+  {}
+\patchcmd{\makehead}
+  {\\[2.5em]}
+  {\hfil\raisebox{-.7cm}{\framebox{\includegraphics[width=\@photowidth]{\@photo}}}\\[2.5em]}
+  {}
+  {}
+
+% personal data
+\name{Balaji}{R}
+\title{Curriculum Vitae}
+\address{Indian Institute Of Science}{Bangalore - 560012}{India}
+\phone[fixed]{+91~93848~08412}
+\email{balajiwork01@gmail.com}
+\photo[64pt][100pt]{cv_photo}
+%\cvitem{Linkedin}{\href{http://www.linkedin.com/in/balaji-ram-b45061257}{\textcolor{blue}{Balaji Ram}}}
+
+
+\extrainfo{\faGithub\href{http://github.com/blackscreen-whitetext}{\textcolor{blue}{blackscreen-whitetext}}\ \faLinkedin{\href{http://www.linkedin.com/in/balaji-ram-b45061257}{\textcolor{blue}{Balaji Ram}}}}
+\begin{document}
+\makecvtitle
+
+\section{Education}
+\cventry{2022--current}{Bachelors Of Technology In Mathematics And Computing}{Indian Institute Of Science}{Bangalore}{\textit{CGPA}--9.0/10.0}{Secured admission through JEE Advanced\\ Expected to graduate in 2026}\vspace{10pt}
+\cventry{2007--2022}{School}{PSBB KK Nagar}{Chennai}{}{\textit{12th Percentage}--96.8\% \\ \textit{10th Percentage}--95\%}
+\section{Online Courses}
+\cvitem{Machine Learning Specialization By Andrew NG}{\href{https://www.coursera.org/specializations/machine-learning-introduction}{\textcolor{blue}{Coursera Page}}}\vspace{2pt}
+I learnt about supervised learning: regression and classification, using linear and deep neural networks, ensemble architectures like trees and boosting. Also learnt about unsupervised learning, clustering, dimensionality reduction, recommender systems and reinforcement learning.\\ \\
+\cvitem{Deep Learning Specialization By Andrew NG}{\href{https://www.coursera.org/specializations/deep-learning?}{\textcolor{blue}{Coursera Page}}}\vspace{2pt}
+I learnt how to implement forward and backward propagation from scratch, deep learning frameworks such as tensorflow. I implemented CNNs and used them for object detection, and in an image recognition system, used pretrained models with a common practical technique called transfer learning. Also i learnt how to handle sequence data with RNNs, GRU, LSTM with the application in sentiment analysis, speech translation etc. I came across vast field of natural language processing with word embeddings using word2vec, GLoVe. Finally attention models including an in depth understanding of the transformer architecture, and have read about the BERT model.\\ \\
+\cvitem{Kaggle certifications:}{\href{https://github.com/blackscreen-whitetext/Course-certs/tree/main/kaggle}{\textcolor{blue}{Github Folder}}}\vspace{2pt}
+\cvitem{Financial Markets By Robert Shiller}{\href{https://www.coursera.org/learn/financial-markets-global/}{\textcolor{blue}{Coursera Page}}}
+\section{UG Courses}
+\cvitem{Computer Systems}{Grade: A+}
+\cvitem{Data Structures And Algorithms}{Grade: B+}
+\cvitem{Algorithms And Programming}{Grade: A}
+\cvitem{Numerical Analysis(with programming in MATLAB/python)}{Grade: A+}
+\cvitem{Probability And Statistics}{Grade: A+}
+\cvitem{Introduction to Electrical And Electronics Engineering}{Grade: A+}
+\cvitem{Real Analysis}{Grade: A+}
+\cvitem{Linear Algebra And Multivariable Calculus}{Grade: A}
+
+\section{Skills}
+\cvitem{Languages}{Python, C, C++ MATLAB, \LaTeX}
+\cvitem{Tools}{Git, Linux, VS Code}
+\section{Achievements}
+\cvitem{JEE Advanced}{AIR 225}
+\cvitem{KVPY SA}{AIR 175}
+\cvitem{JEE Mains}{AIR 1005}
+
+
+
+
+\end{document}
