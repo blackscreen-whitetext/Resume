@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.17)  10 JUL 2024 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.17)  4 JUN 2024 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/balaji/resume/Resume/Balaji_cv.tex
-(c:/balaji/resume/Resume/Balaji_cv.tex
+**c:/balaji/resume/Resume/Balaji_cv_prof.tex
+(c:/balaji/resume/Resume/Balaji_cv_prof.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\balaj\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -536,8 +536,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 39.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 39.
- (Balaji_cv.aux)
-\openout1 = `Balaji_cv.aux'.
+ (Balaji_cv_prof.aux)
+\openout1 = `Balaji_cv_prof.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -632,9 +632,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 39.
-(Balaji_cv.out) (Balaji_cv.out)
+(Balaji_cv_prof.out) (Balaji_cv_prof.out)
 \@outlinefile=\write4
-\openout4 = `Balaji_cv.out'.
+\openout4 = `Balaji_cv_prof.out'.
 
 \pagenumberwidth=\skip99
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
@@ -662,7 +662,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 40.
-<cv_photo.jpg, id=44, 714.67pt x 1076.02pt>
+<cv_photo.jpg, id=40, 714.67pt x 1076.02pt>
 File: cv_photo.jpg Graphic file (type jpg)
 <use cv_photo.jpg>
 Package pdftex.def Info: cv_photo.jpg  used on input line 40.
@@ -682,8 +682,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 42.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 43.
 
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 43.
+
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 43.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 44.
@@ -694,15 +704,19 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 46.
+(Font)              using `OT1/cmss/bx/n' instead on input line 50.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 47.
+(Font)              using `OT1/cmss/bx/n' instead on input line 51.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 48.
+(Font)              using `OT1/cmss/bx/n' instead on input line 52.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 53.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -712,71 +726,66 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 55.
 
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 57.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 58.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 59.
+
 [1
 
 {C:/Users/balaj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./cv_photo.jpg>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 67.
+(Font)              using `OT1/cmss/bx/n' instead on input line 65.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 68.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 70.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
-
- []
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 71.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 72.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 73.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
-
- []
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 74.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 75.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 76.
+(Font)              using `OT1/cmss/bx/n' instead on input line 66.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 78.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--78
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 79.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 81.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 80.
+(Font)              using `OT1/cmss/bx/n' instead on input line 82.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 81.
+(Font)              using `OT1/cmss/bx/n' instead on input line 83.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 84.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 85.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -788,19 +797,12 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 88.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 89.
 
 
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 90.
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 91.
+ []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -814,18 +816,17 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 94.
 
-[2]
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 94.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 94.
+(Font)              using `OT1/cmss/bx/n' instead on input line 95.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 94.
+(Font)              using `OT1/cmss/bx/n' instead on input line 95.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 95.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -839,17 +840,10 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 97.
 
+[2]
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 99.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 99.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 99.
+(Font)              using `OT1/cmss/bx/n' instead on input line 98.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -886,18 +880,6 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 102.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -909,54 +891,32 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 106.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 107.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 107.
+(Font)              using `OT1/cmss/bx/n' instead on input line 108.
 
-LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 107.
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 109.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 110.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 111.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 112.
-
-[3] (Balaji_cv.aux)
+[3] (Balaji_cv_prof.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `Balaji_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 298041BBE2990131C42C31D08DE08ABF;838.
+Package rerunfilecheck Info: File `Balaji_cv_prof.out' has not changed.
+(rerunfilecheck)             Checksum: 938FFB33B9EA312F665D4B3FDF2C23D0;740.
  ) 
 Here is how much of TeX's memory you used:
- 25940 strings out of 475210
- 501246 string characters out of 5756112
- 1933801 words of memory out of 5000000
- 46959 multiletter control sequences out of 15000+600000
- 574593 words of font info for 108 fonts, out of 8000000 for 9000
+ 25924 strings out of 475210
+ 501194 string characters out of 5756112
+ 1934801 words of memory out of 5000000
+ 46958 multiletter control sequences out of 15000+600000
+ 574162 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1494b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1499b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on Balaji_cv.pdf (3 pages, 214129 bytes).
+Output written on Balaji_cv_prof.pdf (3 pages, 207102 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 28242 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 28234 words of extra memory for PDF output out of 29859 (max. 10000000)
 
