@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.17)  10 JUL 2024 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.17)  10 JUL 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,21 +740,21 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 52.
 
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 53.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 53.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 53.
-
 [1
 
 {C:/Users/balaj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./cv_photo.jpg>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 53.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 53.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 53.
+
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 54.
@@ -950,15 +950,15 @@ Package rerunfilecheck Info: File `Balaji_cv.out' has not changed.
 (rerunfilecheck)             Checksum: FE6FE9355EB5CB6F6E385D1118BD59B9;838.
  ) 
 Here is how much of TeX's memory you used:
- 25944 strings out of 475210
- 501282 string characters out of 5756112
- 1934801 words of memory out of 5000000
+ 25950 strings out of 475210
+ 501338 string characters out of 5756112
+ 1933801 words of memory out of 5000000
  46959 multiletter control sequences out of 15000+600000
- 574715 words of font info for 110 fonts, out of 8000000 for 9000
+ 574902 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,129p,1494b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,129p,1494b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/balaj/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on Balaji_cv.pdf (3 pages, 213895 bytes).
+Output written on Balaji_cv.pdf (3 pages, 213998 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
